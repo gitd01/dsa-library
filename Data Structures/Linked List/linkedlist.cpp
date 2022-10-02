@@ -224,7 +224,7 @@ int main()
     // PrintLL(head);
     // removeDuplicateLL(head);
     // deleteLL(head,4);
-    ReverseLL(head);
+    // ReverseLL(head);
     // PrintLL(head);
     // checkSorted(head);
 }
