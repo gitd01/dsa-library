@@ -42,14 +42,14 @@ int main()
     Node* head = NULL;
     int x = 21;
  
-    14->21->11->30->10 */
+ 
     push(&head, 10);
     push(&head, 30);
     push(&head, 11);
     push(&head, 21);
     push(&head, 17);
  
-    
+    // Displays yes if an element is present
     search(head, 11) ? cout << "Yes" : cout << "No";
-    return 0;
+    
 }
