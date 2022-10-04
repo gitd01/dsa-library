@@ -1,4 +1,5 @@
-//Arvind Kumar <Avrvindk314@gmail.com>
+// Contributed by - Arvind Kumar <Avrvindk314@gmail.com>
+
 class Solution {
   public static void printPrimes(int n) {
 
