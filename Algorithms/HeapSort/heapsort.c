@@ -1,4 +1,4 @@
-// Contibuted by Yash Agarwal
+// Contibuted by Yash Agarwal <yashagarwal04022004@gmail.com>
 #include <stdio.h>
 void swap(int* a, int* b)
 {
