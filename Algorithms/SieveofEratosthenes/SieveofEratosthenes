@@ -1,4 +1,4 @@
-//Arvind Kumar<Avrvindk314@gmail.com>
+//Arvind Kumar <Avrvindk314@gmail.com>
 class Solution {
   public static void printPrimes(int n) {
 
