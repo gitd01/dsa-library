@@ -1,3 +1,4 @@
+// Contributed by - Divyanshi Gupta <guptadivyanshi047@gmail.com>
 // C++ implementation of Shell Sort
 #include  <iostream>
 using namespace std;
